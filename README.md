@@ -1,2 +1,3 @@
-# story-thingy
-some random thing i made while bored
+# stories
+
+create commandline stories with python
