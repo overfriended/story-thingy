@@ -1,0 +1,36 @@
+{
+    "storyname": [
+        {
+            "description": "description here",
+            "author": "author",
+            "end-message": "That's the end!",
+            "content": [
+                {
+                    "title": "prologue",
+                    "body": "the bodies"
+                },
+                {
+                    "title": "the second chapter",
+                    "body": "the sequel"
+                }
+            ]
+        }
+    ],
+    "second story": [
+        {
+            "description": "seconddescription here",
+            "author": "author",
+            "end-message": "That's the end!",
+            "content": [
+                {
+                    "title": "prologue",
+                    "body": "the bodies 2"
+                },
+                {
+                    "title": "the second chapter",
+                    "body": "the sequel 2"
+                }
+            ]
+        }
+    ]
+}
