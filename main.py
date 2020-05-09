@@ -23,7 +23,7 @@ def display_chapter(story, content, page):
     print("Chapter " + str(page) + ": " + title + "\n\nChapter Content:")
     print(body + "\n")
 
-    print("Press any key for next chapter...")
+    print("Press the ENTER key for next chapter...")
     input("")
     clear()
 
